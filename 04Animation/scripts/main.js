@@ -15,5 +15,4 @@ function spin(){
 }
 
 setInterval(spin, 16); //equivalent to 60 fps
-© 2022 GitHub, Inc.
-Terms
+
