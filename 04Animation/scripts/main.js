@@ -1,5 +1,4 @@
 
-
 // changing individual properties with code and using setInterval
 var rotationSpeedX = 0.1;
 var rotationSpeedY = 0.01;
